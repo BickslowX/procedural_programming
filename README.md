@@ -1,2 +1,2 @@
-# procedural_programming
+# Procedural Programming
 Petrov Leonid ITFuc-22

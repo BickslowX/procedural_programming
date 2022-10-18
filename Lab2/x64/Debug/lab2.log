@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\leope\source\repos\lab2\lab2.cpp(112,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\leope\source\repos\lab2\lab2.cpp(127,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  lab2.vcxproj -> C:\Users\leope\source\repos\lab2\x64\Debug\lab2.exe
